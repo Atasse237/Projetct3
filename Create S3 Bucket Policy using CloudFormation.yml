@@ -6,7 +6,7 @@ Parameters:
   BucketName:
     Type: String
     Description: Bucket Name
-    Default: cloudkatha-bucket
+    Default: Mybucket
 
 Resources:
 
